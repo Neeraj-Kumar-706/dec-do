@@ -3,5 +3,6 @@ from tkinter import *
 main=Tk(className='dec-do')
 main.geometry("500x500")
 b=Button(main,text="click me")
-b.pack()
+b.pack(side='bottom')
+
 mainloop()
