@@ -20,7 +20,7 @@ button.pack(side='left')
 
 #result wiget
 result=ttk.Label(app,text='result',font=('verdana',20,'bold'))
-result.pack(side='bottom')
+result.pack(side='center')
 
 
 
